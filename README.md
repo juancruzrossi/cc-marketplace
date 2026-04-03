@@ -20,4 +20,4 @@ Then install any plugin:
 
 | Plugin | Description |
 |--------|-------------|
-| [bridge](https://github.com/juancruzrossi/sdd-bridge) | Spec-Driven Development framework — interview, plan, execute, review, debug |
+| [bridge](https://github.com/juancruzrossi/bridge) | Spec-Driven Development framework — interview, plan, execute, review, debug |
