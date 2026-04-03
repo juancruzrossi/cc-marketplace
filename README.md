@@ -1,6 +1,6 @@
 # cc-marketplace
 
-Plugin marketplace for Claude Code by [@juancruzrossi](https://github.com/juancruzrossi).
+Curated plugins for Claude Code and AI coding agents.
 
 ## Usage
 

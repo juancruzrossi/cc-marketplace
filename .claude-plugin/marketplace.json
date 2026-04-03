@@ -1,6 +1,6 @@
 {
   "name": "cc-marketplace",
-  "description": "Plugin marketplace by juancruzrossi",
+  "description": "Curated plugins for Claude Code and AI coding agents",
   "owner": {
     "name": "Juan Cruz Rossi",
     "url": "https://github.com/juancruzrossi"
@@ -9,7 +9,7 @@
     {
       "name": "bridge",
       "description": "Spec-Driven Development framework for Claude Code — interview, plan, execute, review, debug",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "source": "github:juancruzrossi/sdd-bridge",
       "author": {
         "name": "Juan Cruz Rossi",
