@@ -10,7 +10,10 @@
       "name": "bridge",
       "description": "Spec-Driven Development framework for Claude Code — interview, plan, execute, review, debug",
       "version": "1.0.0",
-      "source": "github:juancruzrossi/sdd-bridge",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juancruzrossi/sdd-bridge.git"
+      },
       "author": {
         "name": "Juan Cruz Rossi",
         "url": "https://github.com/juancruzrossi"
