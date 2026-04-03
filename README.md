@@ -1,6 +1,6 @@
 # cc-marketplace
 
-Curated plugins for Claude Code and AI coding agents.
+My curated plugins collection for Claude Code.
 
 ## Usage
 
