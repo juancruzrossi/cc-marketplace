@@ -1,5 +1,5 @@
 {
-  "name": "cc-marketplace",
+  "name": "jx-marketplace",
   "description": "My curated plugins collection for Claude Code",
   "owner": {
     "name": "Juan Cruz Rossi",
@@ -7,12 +7,12 @@
   },
   "plugins": [
     {
-      "name": "bridge",
+      "name": "neural",
       "description": "Spec-Driven Development framework for Claude Code — interview, plan, execute, review, debug",
       "version": "1.0.0",
       "source": {
         "source": "url",
-        "url": "https://github.com/juancruzrossi/bridge.git"
+        "url": "https://github.com/juancruzrossi/neural.git"
       },
       "author": {
         "name": "Juan Cruz Rossi",

@@ -1,4 +1,4 @@
-# cc-marketplace
+# jx-marketplace
 
 My curated plugins collection for Claude Code.
 
@@ -7,17 +7,17 @@ My curated plugins collection for Claude Code.
 Register the marketplace in Claude Code:
 
 ```
-/plugin marketplace add juancruzrossi/cc-marketplace
+/plugin marketplace add juancruzrossi/jx-marketplace
 ```
 
 Then install any plugin:
 
 ```
-/plugin install bridge@cc-marketplace
+/plugin install neural@jx-marketplace
 ```
 
 ## Available Plugins
 
 | Plugin | Description |
 |--------|-------------|
-| [bridge](https://github.com/juancruzrossi/bridge) | Spec-Driven Development framework — interview, plan, execute, review, debug |
+| [neural](https://github.com/juancruzrossi/neural) | Spec-Driven Development framework — interview, plan, execute, review, debug |
